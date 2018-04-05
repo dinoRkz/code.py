@@ -17,5 +17,8 @@ You can fork the repository or add your code snippets and get it merged in the r
 
 | Problem                                                                  | Solution                                          |
 |--------------------------------------------------------------------------|---------------------------------------------------|
-| [Credit Card Mask](https://www.codewars.com/kata/credit-card-mask/train/python)  | [click](https://github.com/dinoRkz/code.py/blob/master/codewars/credit_card_mask.py)                             | 
+| [Credit Card Mask](https://www.codewars.com/kata/credit-card-mask/train/python)    | [click](https://github.com/dinoRkz/code.py/blob/master/codewars/credit_card_mask.py)                             | 
+| [Descending Order](https://www.codewars.com/kata/descending-order/train/python)    | [click](https://github.com/dinoRkz/code.py/blob/master/codewars/descending_order.py)                             | 
+| [Persistent Bugger](https://www.codewars.com/kata/persistent-bugger/train/python)  | [click](https://github.com/dinoRkz/code.py/blob/master/codewars/persistent_bugger.py)                            | 
+| [You're a Square](https://www.codewars.com/kata/youre-a-square/train/python)       | [click](https://github.com/dinoRkz/code.py/blob/master/codewars/youre_a_square.py)                               | 
 
