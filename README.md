@@ -10,7 +10,7 @@ Yes, all the programs are tested in respective coding platforms before they are 
 
 ## Contributing to repository
 
-You can fork the repository or add your code snippets and get it merged in the repository (as per guidlines). Also if you feel something is not explained properly or if you find something wrong, you may aise an issue regarding it.
+You can fork the repository or add your code snippets and get it merged in the repository (as per guidlines). Also if you feel something is not explained properly or if you find something wrong, you may rise an issue regarding it.
 
 
 ## Codewars
